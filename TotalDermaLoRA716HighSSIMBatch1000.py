@@ -1,8 +1,3 @@
-# Generated from: TotalDermaLoRA716HighSSIMBatch1000.ipynb
-# Converted at: 2026-10-12T09:12:18.567Z
-# Next step (optional): refactor into modules & generate tests with RunCell
-# Quick start: pip install runcell
-
 from google.colab import drive
 import os
 
